@@ -1,3 +1,4 @@
+# Created by Liran Zhou
 import pybullet as p
 import matplotlib.pyplot as plt
 import numpy as np
